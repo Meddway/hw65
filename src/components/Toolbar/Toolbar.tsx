@@ -23,6 +23,9 @@ const Toolbar = () => {
           <li className="nav-item">
             <NavLink to="/pages/readme" className="nav-link">Readme</NavLink>
           </li>
+          <li className="nav-item">
+            <NavLink to="/pages/admin" className="nav-link">Admin</NavLink>
+          </li>
         </ul>
       </div>
     </nav>
